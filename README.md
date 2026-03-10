@@ -54,7 +54,7 @@ This portfolio was created to present my development work, demonstrate my skills
 
 ## 🌐 Live Website
 
-Coming Soon
+https://devatharv.netlify.app/
 
 
 ---
